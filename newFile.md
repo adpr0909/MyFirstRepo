@@ -21,14 +21,14 @@ I am learning how to use GitHub and exploring how repositories work.
 - Git & GitHub for version control.
 
 ## 👨‍💻 About Me:
-I’m [Your Name](https://github.com/your-github-username), an aspiring developer!
+I’m Ad Pr (https://github.com/adpr0909), an aspiring developer!
 
 ## 🎯 Next Steps:
 - Add more content to this repository.
 - Learn how to push changes using Git.
 
 
-
+![photo water]([image_url](https://www.istockphoto.com/photos/pure-water))
 
 ---
 __Advertisement :)__
